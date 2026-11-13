@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+*.zip
+*.exe
+*.dll
+*.dylib
+*.framework/
+D3DMetal.original
+manifest.json
+Frameworks/
+BF6-MetalFX-Compatibility/
